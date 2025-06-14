@@ -1,6 +1,11 @@
 # Intelligent Electricity Demand Forecasting Dashboard
 
-As part of Data Mining project I and @Mxneeb made a web-based interactive dashboard that predicts electricity demand using machine learning models. It provides visual analytics, model comparisons, and insights into seasonal and weather-related demand patterns, making it ideal for energy analysts, researchers, and smart grid operators.
+## Contributors
+
+- [Muhammad Abdurrehman](https://github.com/Abdurrehman7452)
+- [Mxneeb](https://github.com/Mxneeb)
+  
+As part of Data Mining project, we made a web-based interactive dashboard that predicts electricity demand using machine learning models. It provides visual analytics, model comparisons, and insights into seasonal and weather-related demand patterns, making it ideal for energy analysts, researchers, and smart grid operators.
 
 ---
 
