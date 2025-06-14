@@ -1,6 +1,6 @@
-# ⚡ VoltSight: Intelligent Electricity Demand Forecasting Dashboard
+# Intelligent Electricity Demand Forecasting Dashboard
 
-VoltSight is a web-based interactive dashboard that predicts electricity demand using machine learning models. It provides visual analytics, model comparisons, and insights into seasonal and weather-related demand patterns, making it ideal for energy analysts, researchers, and smart grid operators.
+As part of Data Mining project I and @Mxneeb made a web-based interactive dashboard that predicts electricity demand using machine learning models. It provides visual analytics, model comparisons, and insights into seasonal and weather-related demand patterns, making it ideal for energy analysts, researchers, and smart grid operators.
 
 ---
 
